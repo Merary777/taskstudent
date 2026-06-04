@@ -98,7 +98,6 @@ flutter pub get
 flutter run
 ```
 
----
 
 ## Módulos de la Aplicación
 
