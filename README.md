@@ -8,7 +8,6 @@ La aplicación permite gestionar tareas académicas, organizar materias, crear n
 
 Este proyecto fue desarrollado como parte de la asignatura **Implementa Aplicaciones Móviles Multiplataforma** como proyecto final de la materia.
 
----
 
 ## Características Principales
 
@@ -32,7 +31,6 @@ Este proyecto fue desarrollado como parte de la asignatura **Implementa Aplicaci
   * Francés
 * Modo oscuro.
 
----
 
 ## Tecnologías Utilizadas
 
@@ -43,7 +41,6 @@ Este proyecto fue desarrollado como parte de la asignatura **Implementa Aplicaci
 * SharedPreferences
 * Speech To Text
 
----
 
 ## Estructura del Proyecto
 
@@ -59,7 +56,6 @@ lib/
 └── main.dart
 ```
 
----
 
 ## Credenciales Predeterminadas
 
@@ -75,7 +71,6 @@ Contraseña:
 12345
 ```
 
----
 
 ## Instalación
 
@@ -139,13 +134,11 @@ Permite modificar el nombre mostrado del usuario.
 
 Permite cambiar idioma, activar modo oscuro y cerrar sesión.
 
----
 
 ## Objetivo del Proyecto
 
 Desarrollar una aplicación móvil que ayude a estudiantes a mejorar la organización de sus actividades académicas mediante herramientas digitales fáciles de utilizar.
 
----
 
 ## Autores
 ```
